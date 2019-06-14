@@ -26,10 +26,8 @@ To develop this project:
    
    3. Run the project:
       
-       _terminal_
-     
-      ``` 
+   ``` 
       
       python3 main.py 
-      ```
+   ```
      
