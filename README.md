@@ -20,14 +20,15 @@ To develop this project:
    
    ``` 
    
-   git clone https://github.com/ashwathprabu/Inventory-master.git 
-   cd Inventory-master
+     git clone https://github.com/ashwathprabu/Inventory-master.git 
+   
+     cd Inventory-master
    ```
    
    3. Run the project:
       
    ``` 
       
-      python3 main.py 
+     python3 main.py 
    ```
      
